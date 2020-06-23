@@ -1,0 +1,32 @@
+a
+e
+f
+
+a e
+a f
+e f
+
+e and a
+f and a
+f and e
+
+a or e
+a or f
+e or f
+
+a e f
+a and e and f
+
+a or e or f
+
+a and e or f
+f or a and e
+
+a e or f
+f or a e
+
+a or f and e
+f e or a
+
+f and a or e
+e or a f

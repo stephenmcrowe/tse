@@ -1,0 +1,78 @@
+Query: a 
+score:  2 doc   2: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+score:  2 doc   1: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+score:  2 doc   0: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/
+score:  1 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: e 
+score:  2 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  1 doc   3: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+Query: f 
+score:  2 doc   7: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+score:  1 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: a e 
+score:  1 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: a f 
+score:  1 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: e f 
+score:  1 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: e and a 
+score:  1 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: f and a 
+score:  1 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: f and e 
+score:  1 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: a or e 
+score:  3 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  2 doc   2: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+score:  2 doc   1: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+score:  2 doc   0: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/
+score:  1 doc   3: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+Query: a or f 
+score:  2 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  2 doc   2: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+score:  2 doc   1: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+score:  2 doc   0: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/
+score:  2 doc   7: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+Query: e or f 
+score:  3 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  2 doc   7: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+score:  1 doc   3: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+Query: a e f 
+score:  1 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: a and e and f 
+score:  1 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: a or e or f 
+score:  4 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  2 doc   2: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+score:  2 doc   1: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+score:  2 doc   0: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/
+score:  2 doc   7: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+score:  1 doc   3: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+Query: a and e or f 
+score:  2 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  2 doc   7: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+Query: f or a and e 
+score:  2 doc   7: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+score:  2 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: a e or f 
+score:  2 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  2 doc   7: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+Query: f or a e 
+score:  2 doc   7: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+score:  2 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+Query: a or f and e 
+score:  2 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  2 doc   2: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+score:  2 doc   1: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+score:  2 doc   0: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/
+Query: f e or a 
+score:  2 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  2 doc   2: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+score:  2 doc   1: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+score:  2 doc   0: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/
+Query: f and a or e 
+score:  3 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  1 doc   3: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+Query: e or a f 
+score:  3 doc   4: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+score:  1 doc   3: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html

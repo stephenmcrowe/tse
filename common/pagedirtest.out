@@ -1,0 +1,43 @@
+Webpage path is http://old-www.cs.dartmouth.edu/
+Webpage html is 
+<head><title>Welcome to old-www.cs.dartmouth.edu</title></head>
+<body>
+
+<h1>Welcome to old-www.cs.dartmouth.edu</h1>
+
+old-www used to be the CS Department at Dartmouth College's web aserver, but it was replaced a while ago.
+It is also called <em>hamlin.cs.dartmouth.edu </em> and it is used by cs50 students for testing.
+
+<ul>
+<li>the new computer science department web server is <a href="http://web.cs.dartmouth.edu/"> here </a>
+<li>the cs50 page is <a href="http://hamlin.cs.dartmouth.edu/~cs50/"> here </a>  
+</ul>
+</body>
+
+
+The directory path is http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters
+Cannot access a directory without a forward slash, so append forward slash.
+New path is http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/
+check the /net/ifs-users/scrowe/cs50/labs/tse/common/testfilesPageDir directory for changes
+
+
+Testing a pdf file... http://old-www.cs.dartmouth.edu/~cs50/Schedule.pdf
+Fetch for pdf returned true
+webpage fetch for a pdf WITHOUT normalizing it returns 
+%PDF-1.3
+%Äåòåë§ó ĞÄÆ
+4 0 obj
+<< /Length 5 0 R /Filter /FlateDecode >>
+stream
+xíÛ’,ÇU†ïë)š z+<ã®SàŒdƒ	É–cÁ„·Æ[¶%ñÏèGâûW®¬ÊªÊ:õÌˆ°åØ5İ]•™kå¿Î™Y¿9üìğ›Cyy¼]Mıx=´—ö±>Î·ëãíğõ»Ãß¾:|
+The url does not contain html according to NormalizeURL()
+
+Testing a png file http://old-www.cs.dartmouth.edu/~scrowe/pretty.png...
+pagefetch for a png WITHOUT normalizing returns (null)
+
+Testing a broken link http://old-www.cs.dartmouth.edu/~scrowe/foo.html...
+A broken link returns (null) with pagefetch()
+
+Testing a forbidden file http://old-www.cs.dartmouth.edu/~scrowe/forbidden.html...
+A forbidden page return (null) with pagefetch()
+

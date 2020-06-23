@@ -1,0 +1,12 @@
+and
+and apple
+apple and
+or
+or apple
+apple or
+and or
+or and
+apple and and banana
+apple and or banana
+apple or or banana
+apple or and banana

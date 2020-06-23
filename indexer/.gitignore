@@ -1,0 +1,10 @@
+# Ignore executables
+indexer
+indextest
+
+# Ignore libraries
+*.a
+*.sm
+
+# Ignore object files
+*.o

@@ -1,0 +1,17 @@
+http://old-www.cs.dartmouth.edu/~scrowe/index_basicsetup.html
+1
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>
+	Stephen's webpage
+</title>
+</head>
+
+<body>
+	Important notes:
+	$(find $sondir -type f)
+	Hi, I haven't set my webpage up yet.  Thank you for visiting.
+</body>
+</html>

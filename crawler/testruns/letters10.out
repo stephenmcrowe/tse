@@ -1,0 +1,107 @@
+hostname is old-www.cs.dartmouth.edu
+ 0 Extracted: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/
+ 0     Saved: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/
+ 0  Scanning: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/
+ 0     Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 0     Added: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+ 1  Extracted: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+ 1      Saved: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+ 1   Scanning: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+ 1      Found: https://en.wikipedia.org/wiki/Algorithm/
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is en.wikipedia.org 1  IgnExtern: https://en.wikipedia.org/wiki/Algorithm/
+ 1      Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 1      Added: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+ 1      Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 1      Added: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+ 2   Extracted: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+ 2       Saved: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+ 2    Scanning: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+ 2       Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 2   Extracted: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+ 2       Saved: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+ 2    Scanning: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+ 2       Found: https://en.wikipedia.org/wiki/Breadth-first_search/
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is en.wikipedia.org 2   IgnExtern: https://en.wikipedia.org/wiki/Breadth-first_search/
+ 2       Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/C.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 2       Added: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/C.html
+ 2       Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/D.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 2       Added: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/D.html
+ 2       Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 2       Added: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+ 2       Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 3    Extracted: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+ 3        Saved: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+ 3     Scanning: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/E.html
+ 3        Found: https://en.wikipedia.org/wiki/ENIAC/
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is en.wikipedia.org 3    IgnExtern: https://en.wikipedia.org/wiki/ENIAC/
+ 3        Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 3        Added: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+ 3        Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/G.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 3        Added: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/G.html
+ 3        Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/A.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 3        Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 4     Extracted: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/G.html
+ 4         Saved: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/G.html
+ 4      Scanning: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/G.html
+ 4         Found: https://en.wikipedia.org/wiki/Graph_traversal/
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is en.wikipedia.org 4     IgnExtern: https://en.wikipedia.org/wiki/Graph_traversal/
+ 4         Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/H.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 4         Added: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/H.html
+ 4         Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 5      Extracted: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/H.html
+ 5          Saved: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/H.html
+ 5       Scanning: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/H.html
+ 5          Found: https://en.wikipedia.org/wiki/Huffman_coding/
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is en.wikipedia.org 5      IgnExtern: https://en.wikipedia.org/wiki/Huffman_coding/
+ 5          Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/B.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 5          Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 4     Extracted: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+ 4         Saved: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+ 4      Scanning: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/F.html
+ 4         Found: https://en.wikipedia.org/wiki/Fast_Fourier_transform/
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is en.wikipedia.org 4     IgnExtern: https://en.wikipedia.org/wiki/Fast_Fourier_transform/
+ 4         Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/H.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 4         Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 3    Extracted: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/D.html
+ 3        Saved: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/D.html
+ 3     Scanning: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/D.html
+ 3        Found: https://en.wikipedia.org/wiki/Depth-first_search/
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is en.wikipedia.org 3    IgnExtern: https://en.wikipedia.org/wiki/Depth-first_search/
+ 3        Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 3    Extracted: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/C.html
+ 3        Saved: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/C.html
+ 3     Scanning: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/C.html
+ 3        Found: https://en.wikipedia.org/wiki/Computational_biology/
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is en.wikipedia.org 3    IgnExtern: https://en.wikipedia.org/wiki/Computational_biology/
+ 3        Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/D.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu 3        Found: http://old-www.cs.dartmouth.edu/~cs50/data/tse/letters/index.html
+original hostname is: old-www.cs.dartmouth.edu
+Obtained hostname is old-www.cs.dartmouth.edu
